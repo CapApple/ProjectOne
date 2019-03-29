@@ -139,14 +139,14 @@ figcaption{
    .seatgeek-outer{
     /* background: unset;
     background-color: rgb(198,180,96,0.6); */
-    background-color: rgb(198,180,96);
-    background: -webkit-linear-gradient(rgb(198,180,96,0.8), rgb(200, 200, 200));
+    /* background-color: rgb(198,180,96);
+    background: -webkit-linear-gradient(rgb(198,180,96,0.8), rgb(200, 200, 200)); */
    }
    figure{
     /* background: unset;
     background-color: rgb(100, 100, 80, 0.8);   */
-    background-color: rgb(100, 100, 80, 0.2);
-    background: -webkit-linear-gradient(rgb(100, 100, 80, 0.2),rgb(50,50,50));
+    /* background-color: rgb(100, 100, 80, 0.2);
+    background: -webkit-linear-gradient(rgb(100, 100, 80, 0.2),rgb(50,50,50)); */
    }
 }
 /* add by Jeremy */
