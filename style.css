@@ -133,9 +133,12 @@ figcaption{
 }
 
 
-@media (min-width: 768px) {
+@media (max-width: 768px) {
+   .seatgeek-outer{
+    background-color: rgb(198,180,96,0.6);
+   }
    figure{
-    background-color: rgb(100, 100, 80, 0.2);
+    background-color: rgb(100, 100, 80, 0.6);  
    }
 }
 /* add by Jeremy */
